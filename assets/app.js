@@ -1,5 +1,5 @@
 var i = 0;
-var txt = 'Sirah Boojar'; /* The text */
+var txt = 'Chinapat Kongchaimongkol'; /* The text */
 var speed = 50; /* The speed/duration of the effect in milliseconds */
 window.addEventListener("load", typeWriter);
 function typeWriter() {
